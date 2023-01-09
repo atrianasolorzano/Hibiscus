@@ -1,4 +1,5 @@
 # Hibiscus
+The Hibiscus has become nearly synonymous with the tropics — a symbolic representation of its transnational past, present, and future. With its origins in Asia, Africa and Pasifika, the flower and the people who have long cared for it found their way to the Caribbean as a result of European imperialism. Various artistic and cultural representations of the Hibiscus demonstrate how narratives of resilience and resistance have served to cultivate an emergent belonging to the Caribbean. 
 <a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
 
 <param ve-config 
