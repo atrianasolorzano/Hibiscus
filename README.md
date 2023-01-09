@@ -33,6 +33,8 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 ## Movement to Caribbean via the Atlantic Slave Trade
 
 ## Hibiscus in Asia 
+   <param ve-image
+    url="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%E0%A6%9C%E0%A6%AC%E0%A6%BE%2C_Hibiscus_rosa-sinensis.jpg/640px-%E0%A6%9C%E0%A6%AC%E0%A6%BE%2C_Hibiscus_rosa-sinensis.jpg](https://collectionapi.metmuseum.org/api/collection/v1/iiif/56887/130000/main-image)">
 
 ## Movement to Caribbean via indentured servitude
 
