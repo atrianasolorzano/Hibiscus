@@ -26,13 +26,14 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
-## Botanicla Introduction
+## Botanical Introduction
 
 ## Hibiscus in Africa
 
 ## Movement to Caribbean via the Atlantic Slave Trade
 
 ## Hibiscus in Asia 
+placeholder
    <param ve-image
     url="[https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%E0%A6%9C%E0%A6%AC%E0%A6%BE%2C_Hibiscus_rosa-sinensis.jpg/640px-%E0%A6%9C%E0%A6%AC%E0%A6%BE%2C_Hibiscus_rosa-sinensis.jpg](https://collectionapi.metmuseum.org/api/collection/v1/iiif/56887/130000/main-image)">
 
