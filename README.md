@@ -15,7 +15,22 @@
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
-## 
+## Botanical Introduction
+
+## Hibiscus in Africa
+
+## Movement to Caribbean via the Atlantic Slave Trade
+
+## Hibiscus in Asia 
+
+## Movement to Caribbean via indentured servitude
+
+## Forced Labor & The Caribbean Diasporic Imagination
+
+## Hibiscus in the Caribbean Diasporic Imagination
+
+
+
 # Sample visual essay
 
 This is a sample visual essay demonstrating a few key features of a Visual Essay. Additional [Documentation](https://github.com/JSTOR-Labs/juncture/wiki) and [examples](https://jstor-labs.github.io/juncture-examples) are available for reference.
