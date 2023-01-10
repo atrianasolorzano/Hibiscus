@@ -7,8 +7,8 @@ The Hibiscus has become nearly synonymous with the tropics — a symbolic repres
 <param ve-config 
        title="Hibiscus"
        author="Andrés Triana Solórzano"
-       banner="https://iiif.juncture-digital.org/banner/?
-       manifest=pexels-julia-volk-5769794.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?"
+       url=pexels-julia-volk-5769794.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
