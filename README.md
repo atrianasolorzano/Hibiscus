@@ -7,7 +7,8 @@ The Hibiscus has become nearly synonymous with the tropics — a symbolic repres
 <param ve-config 
        title="Hibiscus"
        author="Andrés Triana Solórzano"
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
+       banner="https://iiif.juncture-digital.org/banner/?
+       url=https://github.com/atrianasolorzano/Hibiscus/blob/cd60c1531fc229314d6399c9e9e8905319f78ea6/pexels-julia-volk-5769794.jpg 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
