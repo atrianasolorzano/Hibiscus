@@ -31,7 +31,7 @@ This is a sample visual essay demonstrating a few key features of a Visual Essay
 placeholder
 <param ve-map>
 <param ve-map-layer geojson
-       url="https://github.com/atrianasolorzano/Hibiscus/blob/03c9d9022d60d2741d613f9f5540bf83b7aa54bf/HibiscusRange.json">
+       url="https://raw.githubusercontent.com/atrianasolorzano/Hibiscus/main/HibiscusRange.json">
 
 ## Hibiscus in Africa
 
