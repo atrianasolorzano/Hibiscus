@@ -5,8 +5,8 @@ The Hibiscus has become nearly synonymous with the tropics — a symbolic repres
     url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/%E0%A6%9C%E0%A6%AC%E0%A6%BE%2C_Hibiscus_rosa-sinensis.jpg/640px-%E0%A6%9C%E0%A6%AC%E0%A6%BE%2C_Hibiscus_rosa-sinensis.jpg">
 
 <param ve-config 
-       title="Girl with a Pearl Earring"
-       author="JSTOR Labs team"
+       title="Hibiscus"
+       author="Andrés Triana Solórzano"
        banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/4/47/Bartholomeus_Johannes_van_Hove%2C_Het_Mauritshuis_te_Den_Haag.jpg" 
        layout="vertical">
 
