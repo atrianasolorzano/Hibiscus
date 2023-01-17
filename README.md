@@ -34,7 +34,7 @@ placeholder
 ## Hibiscus in Africa
 placeholder
 <param ve-iframe
-src="https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA569&output=embed">
+src="https://www.google.com/books/edition/Purple_Hibiscus/g-kBBBPhaZ4C?hl=en&gbpv=1">
 
 ## Movement to Caribbean via the Atlantic Slave Trade
 
