@@ -46,11 +46,11 @@ placeholder
 ## Movement to Caribbean via indentured servitude
 
 ## Forced Labor & The Caribbean Diasporic Imagination
-<param ve-knightlab-timeline
-source="1Nnl-4kS_7n9lZ7yIjmH74iq7slI8t6YB4trmfY5NyFo"
-timenav-position="bottom"
-hash-bookmark="false”
-initial-zoom="1"
-height="750">
+<param ve-knightlab-timeline 
+       source="1Nnl-4kS_7n9lZ7yIjmH74iq7slI8t6YB4trmfY5NyFo"
+       timenav-position="bottom"
+       hash-bookmark="false”
+       initial-zoom="1"
+       height="750">
 
 ## Hibiscus in the Caribbean Diasporic Imagination
