@@ -34,7 +34,7 @@ placeholder
 ## Hibiscus in Africa
 placeholder
 <param ve-iframe
-src="https://www.google.com/books/edition/Neglected_Leafy_Green_Vegetables_Crops_i/nseTAusJEDMC?hl=en&gbpv=1&pg=PA1&printsec=frontcover">
+src="https://books.google.com/books?id=nseTAusJEDMC&newbks=0&lpg=PT5&dq=hibiscus%20africa&pg=PA1&output=embed">
 
 ## Movement to Caribbean via the Atlantic Slave Trade
 
