@@ -32,6 +32,9 @@ placeholder
        url="https://raw.githubusercontent.com/atrianasolorzano/Hibiscus/main/HibiscusRange.json">
 
 ## Hibiscus in Africa
+placeholder
+<param ve-iframe
+src="https://books.google.co.uk/books?id=aHlVAAAAcAAJ&pg=PA569&output=embed">
 
 ## Movement to Caribbean via the Atlantic Slave Trade
 
